@@ -11,3 +11,8 @@
   border: 2px solid rebeccapurple;
   border-radius: 10px;
 }
+
+.visited {
+  background-color: greenyellow;
+  color: black;
+}
