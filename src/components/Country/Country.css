@@ -3,4 +3,11 @@
   margin: 15px;
   padding: 15px;
   border-radius: 15px;
+  background-color: azure;
+}
+
+.btn {
+  background-color: aquamarine;
+  border: 2px solid rebeccapurple;
+  border-radius: 10px;
 }
